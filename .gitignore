@@ -6,6 +6,10 @@ node_modules
 builds
 build
 dist
+.yarn
+.idea
+yarn.lock
+package-lock.json
 
 # misc
 .DS_Store
